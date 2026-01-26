@@ -4,6 +4,29 @@
   
   
   <entry>
+    <title>配置Hexo个人博客并进行主题更换</title>
+    <link href="/2026/01/25/%E9%85%8D%E7%BD%AEHexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B9%B6%E8%BF%9B%E8%A1%8C%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%8D%A2/"/>
+    <url>/2026/01/25/%E9%85%8D%E7%BD%AEHexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%B9%B6%E8%BF%9B%E8%A1%8C%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%8D%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo的介绍"><a href="#Hexo的介绍" class="headerlink" title="Hexo的介绍"></a>Hexo的介绍</h1><h2 id="博客动机"><a href="#博客动机" class="headerlink" title="博客动机"></a>博客动机</h2><p>寒假正好要写一个关于光学的专利，需要画一些波导的图，在网上检索了一下，说一般都用Solid Works来画，然后就跟着B站的”阿奇设计分享”一块学，其中有一节课讲了学习地图的。于是在网上检索这个学习地图文件，无意间刷到了一个博主的Hexo个人博客主页，发现很帅很帅。后来查了一下，发现这是一个基于Hexo框架的个人博客网站。因为我个人平时也是会学很多很多的东西，但是就没有一个能够很好记录学习内容的方式，恰巧就遇到了这个好工具，那不得赶快用起来，于是就画了一个晚上自己也配了一个。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>个人博客</tag>
+      
+      <tag>fluid</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2026/01/25/hello-world/"/>
     <url>/2026/01/25/hello-world/</url>
