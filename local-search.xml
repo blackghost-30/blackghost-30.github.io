@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>第二课 草图绘制</title>
+    <link href="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/"/>
+    <url>/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-直线"><a href="#1-直线" class="headerlink" title="1.直线"></a>1.直线</h1><ul><li><p>点击直线，确定两点，完成绘制；</p></li><li><p>按下Esc键退出绘制；</p></li><li><p>添加几何关系：水平、垂直等；</p></li><li><p>固定线段与端点，其中第一点与圆点重合，本就是固定的；</p></li><li><p>将直线作为构造线（就是参考线）、延申为无限长度；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E7%9B%B4%E7%BA%BF.gif" alt="直线操作"></p></li></ul><h1 id="2-矩形"><a href="#2-矩形" class="headerlink" title="2.矩形"></a>2.矩形</h1><ul><li><p>选择边角矩形，画出矩形形状；</p></li><li><p>添加约束：长、宽的约束以及矩形到原点间的相对关系；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E7%9F%A9%E5%BD%A2.gif" alt="矩形操作"></p></li><li><p>快捷键：右键鼠标滑动，可选择智能尺寸等选项；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E5%BF%AB%E6%8D%B7%E9%94%AE.gif" alt="快捷键"></p></li></ul><h1 id="3-圆"><a href="#3-圆" class="headerlink" title="3.圆"></a>3.圆</h1><h2 id="3-1-中心圆"><a href="#3-1-中心圆" class="headerlink" title="3.1 中心圆"></a>3.1 中心圆</h2><ul><li><p>点击中心圆，先确定中心，然后确定半径；</p></li><li><p>输入半径确定圆的大小；</p></li><li><p>添加位置约束；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E4%B8%AD%E5%BF%83%E5%9C%86.gif" alt="中心圆画法"></p></li></ul><h2 id="3-2-周边圆"><a href="#3-2-周边圆" class="headerlink" title="3.2 周边圆"></a>3.2 周边圆</h2><ul><li><p>点击周边圆，先后确定三点；</p></li><li><p>为圆添加约束，以确定圆的唯一位置；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E5%91%A8%E8%BE%B9%E5%9C%86%E6%93%8D%E4%BD%9C.gif" alt="周边圆的画法"></p></li></ul><h1 id="4-槽"><a href="#4-槽" class="headerlink" title="4.槽"></a>4.槽</h1><ul><li><p>点击直槽口，确定长度再确定槽口宽度；</p></li><li><p>添加尺寸约束，以确定槽口的唯一位置；</p></li><li><p>还有三点圆弧槽口、中心点圆弧槽口等；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E6%A7%BD%E5%8F%A3.gif" alt="直槽口操作"></p></li></ul><h1 id="5-圆弧与切线弧"><a href="#5-圆弧与切线弧" class="headerlink" title="5.圆弧与切线弧"></a>5.圆弧与切线弧</h1><h2 id="5-1-圆弧"><a href="#5-1-圆弧" class="headerlink" title="5.1 圆弧"></a>5.1 圆弧</h2><ul><li><p>点击圆弧，选确定圆心，再确定圆弧的两个端点；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E5%9C%86%E5%BC%A7.gif" alt="圆弧的画法"></p></li></ul><h2 id="5-2-切线弧"><a href="#5-2-切线弧" class="headerlink" title="5.2 切线弧"></a>5.2 切线弧</h2><ul><li><p>点击选择切线弧，切线弧只能在直线末端添加；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E5%88%87%E7%BA%BF%E5%BC%A7.gif" alt="切线弧的画法"></p></li></ul><h1 id="6-圆角和倒角"><a href="#6-圆角和倒角" class="headerlink" title="6.圆角和倒角"></a>6.圆角和倒角</h1><ul><li><p>选择圆角，点击某个边角的顶点，输入半径确定圆角大小；</p></li><li><p>选择倒角，点击某个边角的顶点，输入倒角的大小；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E5%9C%86%E8%A7%92%E4%B8%8E%E5%80%92%E8%A7%92.gif" alt="圆角与倒角的画法"></p></li></ul><h1 id="7-点"><a href="#7-点" class="headerlink" title="7.点"></a>7.点</h1><ul><li><p>点是最小的几何特征；</p></li><li><p>有时候会用点作为圆周阵列的中心点；</p><p><img src="/2026/01/28/%E7%AC%AC%E4%BA%8C%E8%AF%BE-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6/%E7%82%B9.gif" alt="点的绘制"></p></li></ul><h1 id="8-总结"><a href="#8-总结" class="headerlink" title="8.总结"></a>8.总结</h1><p>本小节课程主要介绍了Solid Works中的草图绘制功能，除了以上7种外，还有像椭圆、多边形、曲线等功能。Solid Works具有丰富的提示功能，对于某一种草图，鼠标放上去就会有提示，可以轻松掌握。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>学习指导&amp;学习地图介绍</title>
     <link href="/2026/01/28/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E4%BB%8B%E7%BB%8D/"/>
     <url>/2026/01/28/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E4%BB%8B%E7%BB%8D/</url>
