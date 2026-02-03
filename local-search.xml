@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>第四课 草图镜像阵列与进阶绘制练习</title>
+    <link href="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/"/>
+    <url>/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-镜像"><a href="#1-镜像" class="headerlink" title="1.镜像"></a>1.镜像</h1><ul><li><p>镜像即镜像实体功能，类似于前面学习的对称；</p></li><li><p>先画一个圆，然后画一条直线；</p></li><li><p>选择镜像实体选项，分别将圆选择为要镜像的实体、将直线选择为镜像轴；</p></li><li><p>点击确定，即可完成镜像实体功能；</p><p><img src="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/%E9%95%9C%E5%83%8F%E5%AE%9E%E4%BD%93.gif" alt="镜像实体功能"></p></li></ul><h1 id="2-阵列"><a href="#2-阵列" class="headerlink" title="2.阵列"></a>2.阵列</h1><h2 id="2-1-线性草图阵列"><a href="#2-1-线性草图阵列" class="headerlink" title="2.1 线性草图阵列"></a>2.1 线性草图阵列</h2><ul><li><p>选择要阵列的实体，可单选或多选；</p></li><li><p>分别为X轴方向和Y轴方向设定参数，包括间距、记数、角度等；</p></li><li><p>阵列记数包括了原来的实体；</p><p><img src="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/%E7%BA%BF%E6%80%A7%E8%8D%89%E5%9B%BE%E9%98%B5%E5%88%97.gif" alt="线性草图阵列"></p></li></ul><h2 id="2-2-圆周草图阵列"><a href="#2-2-圆周草图阵列" class="headerlink" title="2.2 圆周草图阵列"></a>2.2 圆周草图阵列</h2><ul><li><p>选择圆周草图阵列；</p></li><li><p>分别选择参照点、要阵列的实体；</p></li><li><p>设置相关的参数，包括角度范围、数量、是否要等间距等等；</p></li><li><p>可跳过的实体功能是可以选择阵列中的某一个将其跳过；</p><p><img src="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/%E5%9C%86%E5%91%A8%E8%8D%89%E5%9B%BE%E9%98%B5%E5%88%97.gif" alt="圆周草图阵列"></p></li></ul><h2 id="2-3-移动实体"><a href="#2-3-移动实体" class="headerlink" title="2.3 移动实体"></a>2.3 移动实体</h2><ul><li><p>移动实体包含：移动实体、复制实体、旋转实体、缩放实体比例、伸展实体等功能；</p></li><li><p>移动实体即将实体参照某个点进行移动；</p><p><img src="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/%E7%A7%BB%E5%8A%A8%E5%AE%9E%E4%BD%93.gif" alt="移动实体功能"></p></li></ul><h1 id="3-进阶绘制练习——海豚机械臂侧视图绘制"><a href="#3-进阶绘制练习——海豚机械臂侧视图绘制" class="headerlink" title="3.进阶绘制练习——海豚机械臂侧视图绘制"></a>3.进阶绘制练习——海豚机械臂侧视图绘制</h1><ul><li><p>按照之前的草图绘制逻辑：先画轮廓再添加尺寸约束，最后把草图完全定义；</p><p><img src="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/%E6%9C%BA%E6%A2%B0%E8%87%82%E4%BE%A7%E8%A7%86%E5%9B%BE.gif" alt="海豚机械臂侧视图"></p></li></ul><h1 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h1><p>这节课是草图绘制的最后一节课，讲了草图镜像阵列与移动，最后用一个海豚机械臂的侧视图来完成了草图的进阶绘制练习，后续需要进一步多加练习草图的绘制。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>附加课2 草图绘制思路</title>
     <link href="/2026/02/02/%E9%99%84%E5%8A%A0%E8%AF%BE2-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6%E6%80%9D%E8%B7%AF/"/>
     <url>/2026/02/02/%E9%99%84%E5%8A%A0%E8%AF%BE2-%E8%8D%89%E5%9B%BE%E7%BB%98%E5%88%B6%E6%80%9D%E8%B7%AF/</url>
