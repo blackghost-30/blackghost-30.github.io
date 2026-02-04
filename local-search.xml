@@ -4,6 +4,106 @@
   
   
   <entry>
+    <title>第六课 特征成型2</title>
+    <link href="/2026/02/03/%E7%AC%AC%E5%85%AD%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B2/"/>
+    <url>/2026/02/03/%E7%AC%AC%E5%85%AD%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-拉伸切除与基准面"><a href="#1-拉伸切除与基准面" class="headerlink" title="1.拉伸切除与基准面"></a>1.拉伸切除与基准面</h1><h1 id="2-扫描与螺旋线"><a href="#2-扫描与螺旋线" class="headerlink" title="2.扫描与螺旋线"></a>2.扫描与螺旋线</h1><h1 id="3-旋转凸台"><a href="#3-旋转凸台" class="headerlink" title="3. 旋转凸台"></a>3. 旋转凸台</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>第五课 特征成型与设计树</title>
+    <link href="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/"/>
+    <url>/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-特征成型基本功能"><a href="#1-特征成型基本功能" class="headerlink" title="1.特征成型基本功能"></a>1.特征成型基本功能</h1><p>特征成型的命令包括：</p><ul><li>第一大类：拉伸凸台&#x2F;基体、旋转凸台&#x2F;基体、扫描、放样凸台&#x2F;基体、边界凸台&#x2F;基体；</li><li>第二大类：拉伸切除、旋转切除、扫描切除、放样切除、边界切除；</li><li>第三大类：异性孔向导；</li></ul><h2 id="1-1-第一大类"><a href="#1-1-第一大类" class="headerlink" title="1.1 第一大类"></a>1.1 第一大类</h2><ul><li><p>拉伸凸台&#x2F;基体：添加实体的体积，主要用于线性、规则的将二维草图拓展到三维立体；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E6%8B%89%E4%BC%B8%E5%87%B8%E5%8F%B0%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="拉伸凸台&#x2F;基体命令介绍"></p></li><li><p>旋转凸台&#x2F;基体：添加实体的体积，主要用于旋转的将二维草图拓展到三维立体；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E6%97%8B%E8%BD%AC%E5%87%B8%E5%8F%B0%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="旋转凸台&#x2F;基体功能介绍"></p></li><li><p>扫描：扫描就是将草图轮廓沿着另一“线性”草图扫描出来；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E6%89%AB%E6%8F%8F%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="扫描功能介绍"></p></li><li><p>放样凸台&#x2F;基体放样凸台&#x2F;基体可以通过两个不同的草图之间的连线将两个草图连接成一个实体；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E6%94%BE%E6%A0%B7%E5%87%B8%E5%8F%B0%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="放样凸台&#x2F;基体功能介绍"></p></li></ul><h2 id="1-2-第二大类：拉伸切除、旋转切除、扫描切除、放样切除"><a href="#1-2-第二大类：拉伸切除、旋转切除、扫描切除、放样切除" class="headerlink" title="1.2 第二大类：拉伸切除、旋转切除、扫描切除、放样切除"></a>1.2 第二大类：拉伸切除、旋转切除、扫描切除、放样切除</h2><ul><li><p>与前面相反的，这一大类是用来减少实体的体积的，切出我们想要的实体，它们分别与前面的四种拉伸功能对应；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E5%88%87%E9%99%A4%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="切除功能介绍"></p></li></ul><h2 id="1-3-异性孔向导"><a href="#1-3-异性孔向导" class="headerlink" title="1.3 异性孔向导"></a>1.3 异性孔向导</h2><ul><li><p>异性孔向导主要是让我们可以直接放置一些定位孔，避免我们重复的画这些固定尺寸的定位孔；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E5%BC%82%E6%80%A7%E5%AD%94%E5%90%91%E5%AF%BC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.gif" alt="异性孔向导功能介绍"></p></li></ul><h1 id="2-拉伸凸台功能"><a href="#2-拉伸凸台功能" class="headerlink" title="2.拉伸凸台功能"></a>2.拉伸凸台功能</h1><ul><li><p>起始面的设置；</p></li><li><p>中止面的设置：给定深度、成形到顶点、成形到面、到离指定面的指定距离、成形到实体、两侧对称；</p></li><li><p>拉伸方向设置：方向1、方向2；</p></li><li><p>薄壁特征：不是生成实体，而是生成一个薄壁，可以设置薄壁的厚度、方向等等；</p><p><img src="/2026/02/03/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%A0%91/%E8%96%84%E5%A3%81%E7%89%B9%E5%BE%81.gif" alt="拉伸凸台薄壁功能"></p></li></ul><h1 id="3-设计树"><a href="#3-设计树" class="headerlink" title="3.设计树"></a>3.设计树</h1><ul><li>设计的每一步都展示在设计树中；</li><li>每一步都可以选择重新编辑；</li></ul><h1 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h1><p>本节课中，我们首先介绍了特征命令中的绝大多数功能，它们主要可以分为三大类；接着我们着重讲解了拉伸凸台功能，最后讲解了设计树的作用。在后续的特征课程中，所有的特征命令和这里的拉伸凸台都是差不多的，只是它们的规则不同。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>附加课3 特征预习</title>
+    <link href="/2026/02/03/%E9%99%84%E5%8A%A0%E8%AF%BE3-%E7%89%B9%E5%BE%81%E9%A2%84%E4%B9%A0/"/>
+    <url>/2026/02/03/%E9%99%84%E5%8A%A0%E8%AF%BE3-%E7%89%B9%E5%BE%81%E9%A2%84%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-拉伸凸台-基体功能"><a href="#1-拉伸凸台-基体功能" class="headerlink" title="1.拉伸凸台&#x2F;基体功能"></a>1.拉伸凸台&#x2F;基体功能</h1><ul><li><p>拉伸凸台&#x2F;基体功能是将草图转换成三维零件的最重要功能；</p></li><li><p>拉伸凸台&#x2F;基体的方向：可分为方向1与方向2，分别对应于正对草图时的往屏幕内和往屏幕外两个法向；</p></li><li><p>方向1和方向2又都可以单独选择是屏幕向内还是屏幕向外，当某一个方向选择了内或者外时，另一个方向就是剩下的一个方向；</p></li><li><p>每个方向在拉伸中可有选项：给定深度、成形到顶点、成形到面、到离指定面指定的距离、成形到实体、两侧对称；</p><p><img src="/2026/02/03/%E9%99%84%E5%8A%A0%E8%AF%BE3-%E7%89%B9%E5%BE%81%E9%A2%84%E4%B9%A0/%E6%8B%89%E4%BC%B8%E5%87%B8%E5%8F%B0%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD.gif" alt="拉伸凸台基本功能"></p></li><li><p>拉伸凸台&#x2F;基体的初始位置：一般默认是从草图开始拉伸，但是在选项栏中也可以通过选择确定起始面，这个功能可以用于快速构建多个相同的实体；</p><p><img src="/2026/02/03/%E9%99%84%E5%8A%A0%E8%AF%BE3-%E7%89%B9%E5%BE%81%E9%A2%84%E4%B9%A0/%E5%9F%BA%E5%87%86%E9%9D%A2%E7%9A%84%E7%A1%AE%E5%AE%9A.gif" alt="改变拉伸凸台的初始位置完成快速实体构建"></p></li></ul><h1 id="2-其他的特征工具"><a href="#2-其他的特征工具" class="headerlink" title="2.其他的特征工具"></a>2.其他的特征工具</h1><ul><li>旋转凸台&#x2F;基体；</li><li>拉伸切除；</li><li>旋转切除；</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>练习题介绍</title>
+    <link href="/2026/02/03/%E7%BB%83%E4%B9%A0%E9%A2%98%E4%BB%8B%E7%BB%8D/"/>
+    <url>/2026/02/03/%E7%BB%83%E4%B9%A0%E9%A2%98%E4%BB%8B%E7%BB%8D/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-练习题文档"><a href="#1-练习题文档" class="headerlink" title="1.练习题文档"></a>1.练习题文档</h1><ul><li><p>40道练习题与课程配套，一共分四部分：草图、零件、装配体、工程图；</p></li><li><p><a href="https://ifcski218x.feishu.cn/docx/ZITWdjgx8oMQUpxbmn9cIsDyn6d">练习题文档链接</a>；</p><p><img src="/2026/02/03/%E7%BB%83%E4%B9%A0%E9%A2%98%E4%BB%8B%E7%BB%8D/%E7%BB%83%E4%B9%A0%E9%A2%98%E6%96%87%E7%AB%A0%E9%A1%B5%E9%9D%A2.png" alt="练习题文档页面"></p></li></ul><h1 id="2-练习题视频配套"><a href="#2-练习题视频配套" class="headerlink" title="2.练习题视频配套"></a>2.练习题视频配套</h1><ul><li><p>up主对整个练习题还进行了配套讲解视频；</p></li><li><p><a href="https://www.bilibili.com/video/BV1yc411A7cJ/?vd_source=6de6983920c368adaa55f630a4adef7e">B站配套视频链接</a>；</p><p><img src="/2026/02/03/%E7%BB%83%E4%B9%A0%E9%A2%98%E4%BB%8B%E7%BB%8D/B%E7%AB%99%E9%85%8D%E5%A5%97%E8%A7%86%E9%A2%91%E9%A1%B5%E9%9D%A2.png" alt="B站配套视频页面"></p></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>第四课 草图镜像阵列与进阶绘制练习</title>
     <link href="/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/"/>
     <url>/2026/02/03/%E7%AC%AC%E5%9B%9B%E8%AF%BE-%E8%8D%89%E5%9B%BE%E9%95%9C%E5%83%8F%E9%98%B5%E5%88%97%E4%B8%8E%E8%BF%9B%E9%98%B6%E7%BB%98%E5%88%B6%E7%BB%83%E4%B9%A0/</url>
