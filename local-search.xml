@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>第九课 3D打印手机支架</title>
+    <link href="/2026/02/05/%E7%AC%AC%E4%B9%9D%E8%AF%BE-3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6/"/>
+    <url>/2026/02/05/%E7%AC%AC%E4%B9%9D%E8%AF%BE-3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-草图文本功能"><a href="#1-草图文本功能" class="headerlink" title="1.草图文本功能"></a>1.草图文本功能</h1><ul><li>草图绘制——选择要放文字的草图平面——文本——输入自己想要的文字；</li><li>选择自己要摆放的位置、字体、字体大小等；</li><li>然后再对其进行拉伸切除即可在实体上“刻下”自己想要的文本；</li></ul><h1 id="2-草图图片功能"><a href="#2-草图图片功能" class="headerlink" title="2.草图图片功能"></a>2.草图图片功能</h1><ul><li>草图绘制——工具——草图工具——草图图片——选择自己想要的图片；</li><li>改变其大小及其位置即可；</li></ul><h1 id="3-样条曲线功能"><a href="#3-样条曲线功能" class="headerlink" title="3.样条曲线功能"></a>3.样条曲线功能</h1><ul><li>在导入图片后可以利用样条曲线沿着图片的线段一点点把图片描出来；</li><li>草图绘制——样条曲线——尽可能多的在曲线上标点；</li><li>然后进行拉伸切除，需要将所有绘制出来的区域通过“所选轮廓”选择，然后再拉伸切除；</li></ul><h1 id="4-材质与质量属性"><a href="#4-材质与质量属性" class="headerlink" title="4.材质与质量属性"></a>4.材质与质量属性</h1><ul><li>设计树——材质——选择材质；</li><li>评估——质量属性，即可得到在这种材质下整个零件的重量；</li></ul><h1 id="5-测量"><a href="#5-测量" class="headerlink" title="5.测量"></a>5.测量</h1><ul><li>评估——距离，通过这个功能即使是没有尺寸的情况下也可以得到零件的各种距离；</li></ul><h1 id="6-模型展示"><a href="#6-模型展示" class="headerlink" title="6.模型展示"></a>6.模型展示</h1><p><img src="/2026/02/05/%E7%AC%AC%E4%B9%9D%E8%AF%BE-3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6/3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E5%B1%95%E7%A4%BA.gif" alt="3D打印手机支架模型"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>附加课5 草图封闭轮廓与所选区域</title>
+    <link href="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE5-%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93%E4%B8%8E%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F/"/>
+    <url>/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE5-%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93%E4%B8%8E%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-草图封闭轮廓"><a href="#1-草图封闭轮廓" class="headerlink" title="1.草图封闭轮廓"></a>1.草图封闭轮廓</h1><ul><li><p>当草图轮廓不是封闭的时候，进行拉伸凸台&#x2F;基体时会自动勾选“薄壁”选项，进行薄壁生成；</p></li><li><p>在一个草图轮廓的边上画一个自身不封闭但与另一草图组成封闭的草图不属于封闭草图；</p></li><li><p>对于自身不封闭但与构造线形成封闭的草图，可以以构造线为旋转轴进行旋转凸台；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE5-%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93%E4%B8%8E%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F/%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93.gif" alt="草图封闭轮廓的几种情况"></p></li></ul><h1 id="2-所选区域"><a href="#2-所选区域" class="headerlink" title="2.所选区域"></a>2.所选区域</h1><ul><li><p>在之前的草图拉伸凸台中，处于同一草图中的多个轮廓会同时被拉伸，通过所选区域能够只给特定的轮廓添加特征；</p></li><li><p>在同一个草图中画两个矩形，选择特征，在所选区域中选择某一个矩形，为其添加拉伸切除；</p></li><li><p>再次选择另一个矩形，为其添加拉伸凸台特征；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE5-%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93%E4%B8%8E%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F/%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F%E5%8A%9F%E8%83%BD.gif" alt="所选区域演示"></p></li></ul><h1 id="3-导致厚度为零的情况"><a href="#3-导致厚度为零的情况" class="headerlink" title="3.导致厚度为零的情况"></a>3.导致厚度为零的情况</h1><ul><li><p>当圆与边线相切时，将其拉伸切除将导致边界没有厚度，会报错无法进行；</p></li><li><p>当圆与两个边线均相切时，它将把一个几何体划分为两个几何体，但两个几何体都是有厚度的，不会导致报错；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE5-%E8%8D%89%E5%9B%BE%E5%B0%81%E9%97%AD%E8%BD%AE%E5%BB%93%E4%B8%8E%E6%89%80%E9%80%89%E5%8C%BA%E5%9F%9F/%E5%8E%9A%E5%BA%A6%E4%B8%BA%E9%9B%B6%E7%9A%84%E6%83%85%E5%86%B5.gif" alt="拉伸切除导致的厚度为零的情况"></p></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>第八课 特征成型4</title>
     <link href="/2026/02/05/%E7%AC%AC%E5%85%AB%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B4/"/>
     <url>/2026/02/05/%E7%AC%AC%E5%85%AB%E8%AF%BE-%E7%89%B9%E5%BE%81%E6%88%90%E5%9E%8B4/</url>
