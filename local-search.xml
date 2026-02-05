@@ -4,6 +4,56 @@
   
   
   <entry>
+    <title>第十课 装配体1</title>
+    <link href="/2026/02/05/%E7%AC%AC%E5%8D%81%E8%AF%BE-%E8%A3%85%E9%85%8D%E4%BD%931/"/>
+    <url>/2026/02/05/%E7%AC%AC%E5%8D%81%E8%AF%BE-%E8%A3%85%E9%85%8D%E4%BD%931/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-界面介绍"><a href="#1-界面介绍" class="headerlink" title="1.界面介绍"></a>1.界面介绍</h1><h1 id="2-插入零件方法"><a href="#2-插入零件方法" class="headerlink" title="2.插入零件方法"></a>2.插入零件方法</h1><h1 id="3-配合基本功能介绍"><a href="#3-配合基本功能介绍" class="headerlink" title="3.配合基本功能介绍"></a>3.配合基本功能介绍</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>附加课6 父子关系_显示隐藏按钮_中性格式</title>
+    <link href="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE6-%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%8C%89%E9%92%AE-%E4%B8%AD%E6%80%A7%E6%A0%BC%E5%BC%8F/"/>
+    <url>/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE6-%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%8C%89%E9%92%AE-%E4%B8%AD%E6%80%A7%E6%A0%BC%E5%BC%8F/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1-父子关系"><a href="#1-父子关系" class="headerlink" title="1.父子关系"></a>1.父子关系</h1><h2 id="1-1-父子关系的定义与体现"><a href="#1-1-父子关系的定义与体现" class="headerlink" title="1.1 父子关系的定义与体现"></a>1.1 父子关系的定义与体现</h2><ul><li><p>父子关系指的是某一个实体的某个参数是以另一实体的某个参数作为参照的；</p></li><li><p>其中，具有参考参数的实体为父亲，而参考父亲的称为儿子；</p></li><li><p>当父亲的某些特征改变时，可能会改变儿子的某些特征；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE6-%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%8C%89%E9%92%AE-%E4%B8%AD%E6%80%A7%E6%A0%BC%E5%BC%8F/%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB.gif" alt="父子关系"></p></li></ul><h2 id="1-2-修改草图基准面"><a href="#1-2-修改草图基准面" class="headerlink" title="1.2 修改草图基准面"></a>1.2 修改草图基准面</h2><ul><li><p>右键草图，选择编辑草图平面即可更改草图基准面；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE6-%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%8C%89%E9%92%AE-%E4%B8%AD%E6%80%A7%E6%A0%BC%E5%BC%8F/%E6%9B%B4%E6%94%B9%E8%8D%89%E5%9B%BE%E5%9F%BA%E5%87%86%E9%9D%A2.gif" alt="更改草图基准面"></p></li></ul><h1 id="2-显示隐藏按钮"><a href="#2-显示隐藏按钮" class="headerlink" title="2.显示隐藏按钮"></a>2.显示隐藏按钮</h1><ul><li><p>显示隐藏按钮（上方的小眼睛）可有很多选项，可自行学习；</p></li><li><p>新建参考基准面的快捷键：按住Ctrl+移动某一个基准面，即可新建一个基准面；</p><p><img src="/2026/02/05/%E9%99%84%E5%8A%A0%E8%AF%BE6-%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB-%E6%98%BE%E7%A4%BA%E9%9A%90%E8%97%8F%E6%8C%89%E9%92%AE-%E4%B8%AD%E6%80%A7%E6%A0%BC%E5%BC%8F/%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%96%B0%E5%BB%BA%E5%8F%82%E8%80%83%E5%9F%BA%E5%87%86%E9%9D%A2.gif" alt="快捷键新建基准面"></p></li></ul><h1 id="3-中性格式"><a href="#3-中性格式" class="headerlink" title="3.中性格式"></a>3.中性格式</h1><ul><li>零件文件格式：.sldprt；</li><li>装配体文件格式：.sldasm；</li><li>工程图文件格式：.slddrw；</li><li>中性格式：中性格式即其他三维软件也能打开的格式，常见的有stp（3D打印的常见格式）、igs、xt；</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>Solid Works</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Solid Works</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>第九课 3D打印手机支架</title>
     <link href="/2026/02/05/%E7%AC%AC%E4%B9%9D%E8%AF%BE-3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6/"/>
     <url>/2026/02/05/%E7%AC%AC%E4%B9%9D%E8%AF%BE-3D%E6%89%93%E5%8D%B0%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6/</url>
